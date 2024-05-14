@@ -33,7 +33,15 @@ https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://banner2.cleanpng.com/20180422/lfq/kisspng-arena-football-league-cbs-sports-network-televisio-stay-tuned-5add199d1b5f76.4994457915244394531121.jpg",CBS Sports Network
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://logowik.com/content/uploads/images/cbs-sports-network7445.jpg",CBS Sports Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://logowik.com/content/uploads/images/tbs-tv1490.jpg",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo.png",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png",HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo.png",ABC
+http://41.205.93.154/ABC/index.m3u8
