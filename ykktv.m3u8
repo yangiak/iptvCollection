@@ -31,6 +31,8 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-15 音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
 https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+#EXTINF:-1 group_id="3" group-title="地方卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 #EXTINF:-1 group_id="2" group-title="USA" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group_id="2" group-title="USA" tvg-name="CBS Sports Network" tvg-logo="https://logowik.com/content/uploads/images/cbs-sports-network7445.jpg",CBS Sports Network
