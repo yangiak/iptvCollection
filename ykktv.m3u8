@@ -47,3 +47,5 @@ http://41.205.93.154/HBO/index.m3u8
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 group_id="2" group-title="USA" tvg-name="ABC" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo.png",ABC
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group_id="2" group-title="USA" tvg-name="FS1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg",FS1
+https://30a-tv.com/darcizzle.m3u8
