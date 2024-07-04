@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-3 综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 综艺
-https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
-https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+ 体育赛事
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-6 电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-7 国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 国防军事
-https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-8 电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-9 纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 纪录
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-10 科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
-https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-11 戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
-https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-12 社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社会与法
-https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-13 新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-14 少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少儿
-https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-15 音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
-https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
 #EXTINF:-1 group_id="3" group-title="地方卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
-https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
 #EXTINF:-1 group_id="2" group-title="USA" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group_id="2" group-title="USA" tvg-name="CBS Sports Network" tvg-logo="https://logowik.com/content/uploads/images/cbs-sports-network7445.jpg",CBS Sports Network
