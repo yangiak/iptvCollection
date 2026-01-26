@@ -7,10 +7,10 @@ http://123.183.79.119:808/hls/2/index.m3u8
 http://123.183.79.119:808/hls/75/index.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
 http://123.183.79.119:808/hls/4/index.m3u8
-#EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
+#EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5+ 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
 http://27.10.210.78:8007/udp/225.0.4.73:7980
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
-http://74.91.26.218:82/live/cctv5hd.m3u8
+	http://23.237.228.134/live5/CCTV5.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5 体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
 http://118.122.144.115:8888/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 group_id="1" group-title="CCTV" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+ 体育赛事
